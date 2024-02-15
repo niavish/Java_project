@@ -9,7 +9,7 @@ class Fibonacci {
         int fibo_pre = 0, fibo = 1, sum = 0;
 
         for(int i=0; i<num; i++) {
-            System.out.println(fibo_pre);
+            System.out.println(i + " "+ fibo_pre);
             sum = fibo + fibo_pre;
             fibo_pre = fibo;
             fibo = sum;
