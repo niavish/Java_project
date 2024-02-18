@@ -1,3 +1,6 @@
+
+//Count of occurrence of characters in String
+
 class CountOccurence {
     public static void main(String[] args) {
         String s = "Count Occurence";
