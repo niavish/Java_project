@@ -7,8 +7,8 @@ public class conditon {
         System.out.println("x<y");
         else
         System.out.println("x>y");
-        else
-        System.out.println("x==y");
+        // else
+        // System.out.println("x==y");
     }
     
 }
